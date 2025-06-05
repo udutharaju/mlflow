@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Udutha_pc/Desktop/mlflow/mlruns/0/8c334e507bed40a1b522bfa0d3305a61/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c334e507bed40a1b522bfa0d3305a61
+run_name: nimble-rat-377
+run_uuid: 8c334e507bed40a1b522bfa0d3305a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749093970598
+status: 1
+tags: []
+user_id: udutharaju
